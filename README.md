@@ -3,6 +3,13 @@ Appium tests
 
 Please validate that the Python version configured in the laptot does be 3.0
 
+# Configure Appium server
+
+Install the appium server according the used SO
+http://appium.io/downloads.html
+
+When starting the appium server, go to the advance option and check the "Allow Session Override" option
+
 # Run Test:
 
 isntall Appium-Python-Client library with the follow command:
