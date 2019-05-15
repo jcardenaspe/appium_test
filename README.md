@@ -2,6 +2,13 @@
 Appium tests
 
 Please validate that the Python version configured in the laptot does be 3.0
+
+# Run Test:
+
+isntall Appium-Python-Client library with the follow command:
+
+- pip install Appium-Python-Client
+ 
 To execute the project, please put the follow command in a terminal window:
 
     -  python test.py prueba_command python3 test.py {contact_name} {phone_number} 
