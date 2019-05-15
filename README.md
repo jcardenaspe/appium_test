@@ -8,4 +8,4 @@ To execute the project, please put the follow command in a terminal window:
  
  the {contact_name} argument please updapted it with the name of a new contact, in the {phone_number} put any phone number
 
-#PD: The project is configured only to execute in an Androide device with a real device, please update the platformVersion, deviceName and the udid with the values of yours device.
+# PD: The project is configured only to execute in an Androide device with a real device, please update the platformVersion, deviceName and the udid with the values of yours device.
